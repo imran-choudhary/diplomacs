@@ -1,0 +1,647 @@
+[27-Jun-2019 03:04:38 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[27-Jun-2019 10:41:02 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[29-Jun-2019 04:13:10 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[30-Jun-2019 00:09:36 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[30-Jun-2019 19:24:55 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[01-Jul-2019 01:31:12 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[01-Jul-2019 02:42:30 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[04-Jul-2019 03:55:28 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[08-Jul-2019 12:09:34 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[10-Jul-2019 08:40:56 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[10-Jul-2019 13:06:52 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[11-Jul-2019 21:15:48 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[12-Jul-2019 09:53:04 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[12-Jul-2019 16:12:05 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[13-Jul-2019 10:20:30 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[20-Jul-2019 22:45:35 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[22-Jul-2019 00:36:14 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[23-Jul-2019 21:12:56 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[23-Jul-2019 23:48:27 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[24-Jul-2019 01:12:14 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[24-Jul-2019 04:18:05 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[24-Jul-2019 08:23:35 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[24-Jul-2019 09:44:15 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[24-Jul-2019 13:35:17 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[24-Jul-2019 16:58:52 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[24-Jul-2019 21:28:02 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[24-Jul-2019 22:39:22 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[24-Jul-2019 23:48:48 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[25-Jul-2019 01:48:36 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[25-Jul-2019 03:39:03 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[25-Jul-2019 06:59:40 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[25-Jul-2019 09:30:16 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[25-Jul-2019 11:10:34 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[25-Jul-2019 12:30:22 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[25-Jul-2019 14:01:26 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[25-Jul-2019 15:43:16 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[25-Jul-2019 17:53:43 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[25-Jul-2019 19:24:32 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[25-Jul-2019 19:53:58 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[25-Jul-2019 20:24:43 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[25-Jul-2019 22:05:07 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[26-Jul-2019 00:19:06 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[26-Jul-2019 01:29:36 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[26-Jul-2019 02:50:02 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[27-Jul-2019 23:53:29 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[28-Jul-2019 06:59:45 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[29-Jul-2019 15:53:25 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[30-Jul-2019 17:40:44 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[02-Aug-2019 14:02:01 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[02-Aug-2019 14:22:38 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[03-Aug-2019 01:29:38 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[04-Aug-2019 06:18:01 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[04-Aug-2019 10:10:26 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[07-Aug-2019 01:41:57 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[08-Aug-2019 06:55:10 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[08-Aug-2019 22:17:50 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[11-Aug-2019 02:58:30 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[12-Aug-2019 02:13:52 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[12-Aug-2019 18:42:25 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[13-Aug-2019 03:25:17 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[13-Aug-2019 09:29:58 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[13-Aug-2019 19:02:57 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[14-Aug-2019 01:16:58 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[14-Aug-2019 18:47:31 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[16-Aug-2019 14:58:57 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[17-Aug-2019 00:14:24 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[17-Aug-2019 06:16:16 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[20-Aug-2019 02:59:56 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[21-Aug-2019 23:12:33 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[22-Aug-2019 02:15:33 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[22-Aug-2019 12:08:36 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[22-Aug-2019 20:56:51 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[23-Aug-2019 06:25:03 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[23-Aug-2019 09:05:07 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[23-Aug-2019 17:29:03 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[24-Aug-2019 22:59:07 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[24-Aug-2019 22:59:12 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[24-Aug-2019 22:59:12 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/jmientra/public_html/Registration/server.php on line 67
+[24-Aug-2019 22:59:12 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/jmientra/public_html/Registration/server.php on line 68
+[24-Aug-2019 22:59:20 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[07-Dec-2019 14:13:06 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/imrandrs/public_html/sub-domain/diplomacs/Registration/server.php on line 12
+[07-Dec-2019 14:13:11 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/imrandrs/public_html/sub-domain/diplomacs/Registration/server.php on line 12
+[07-Dec-2019 14:13:11 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/imrandrs/public_html/sub-domain/diplomacs/Registration/server.php on line 67
+[07-Dec-2019 14:13:11 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/imrandrs/public_html/sub-domain/diplomacs/Registration/server.php on line 68
+[07-Dec-2019 14:13:15 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/imrandrs/public_html/sub-domain/diplomacs/Registration/server.php on line 12
+[07-Dec-2019 14:13:15 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/imrandrs/public_html/sub-domain/diplomacs/Registration/server.php on line 67
+[07-Dec-2019 14:13:15 Etc/GMT] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/imrandrs/public_html/sub-domain/diplomacs/Registration/server.php on line 68
+[07-Dec-2019 14:13:19 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/imrandrs/public_html/sub-domain/diplomacs/Registration/server.php on line 12
+[08-Dec-2019 05:27:16 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/imrandrs/public_html/sub-domain/diplomacs/Registration/server.php on line 12
+[15-Dec-2019 14:57:32 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/imrandrs/public_html/sub-domain/diplomacs/Registration/server.php on line 12
+[15-Dec-2019 19:21:34 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/imrandrs/public_html/sub-domain/diplomacs/Registration/server.php on line 12
+[16-Dec-2019 17:11:13 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/imrandrs/public_html/sub-domain/diplomacs/Registration/server.php on line 12
+[18-Dec-2019 03:34:29 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/imrandrs/public_html/sub-domain/diplomacs/Registration/server.php on line 12
+[19-Dec-2019 14:20:45 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/imrandrs/public_html/sub-domain/diplomacs/Registration/server.php on line 12
+[26-Dec-2019 11:18:00 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/imrandrs/public_html/sub-domain/diplomacs/Registration/server.php on line 12
+[27-Dec-2019 20:09:50 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/imrandrs/public_html/sub-domain/diplomacs/Registration/server.php on line 12
+[28-Dec-2019 05:27:42 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/imrandrs/public_html/sub-domain/diplomacs/Registration/server.php on line 12
+[31-Dec-2019 07:48:00 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/imrandrs/public_html/sub-domain/diplomacs/Registration/server.php on line 12
+[04-Jan-2020 01:17:48 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/imrandrs/public_html/sub-domain/diplomacs/Registration/server.php on line 12
+[04-Jan-2020 18:41:44 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/imrandrs/public_html/sub-domain/diplomacs/Registration/server.php on line 12
+[05-Jan-2020 04:30:46 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/imrandrs/public_html/sub-domain/diplomacs/Registration/server.php on line 12
+[07-Jan-2020 18:33:14 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/imrandrs/public_html/sub-domain/diplomacs/Registration/server.php on line 12
+[07-Jan-2020 21:16:44 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/imrandrs/public_html/sub-domain/diplomacs/Registration/server.php on line 12
+[09-Jan-2020 09:35:14 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/imrandrs/public_html/sub-domain/diplomacs/Registration/server.php on line 12
+[11-Jan-2020 05:53:53 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/imrandrs/public_html/sub-domain/diplomacs/Registration/server.php on line 12
+[11-Jan-2020 17:07:02 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/imrandrs/public_html/sub-domain/diplomacs/Registration/server.php on line 12
+[11-Jan-2020 17:07:11 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/imrandrs/public_html/sub-domain/diplomacs/Registration/server.php on line 12
+[14-Jan-2020 16:53:21 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[16-Jan-2020 21:08:35 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[18-Jan-2020 17:19:37 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[20-Jan-2020 16:46:06 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[21-Jan-2020 13:37:48 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[21-Jan-2020 21:07:23 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[24-Jan-2020 19:24:50 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[24-Jan-2020 20:39:40 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[25-Jan-2020 20:41:23 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[26-Jan-2020 04:28:54 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[26-Jan-2020 08:33:53 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[26-Jan-2020 09:56:09 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[30-Jan-2020 02:32:15 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[01-Feb-2020 14:36:24 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[03-Feb-2020 12:27:57 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[03-Feb-2020 16:06:00 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[05-Feb-2020 12:41:55 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[06-Feb-2020 01:06:21 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[06-Feb-2020 17:02:43 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[07-Feb-2020 18:14:50 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[09-Feb-2020 22:34:43 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[11-Feb-2020 00:37:41 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[12-Feb-2020 03:45:01 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[15-Feb-2020 05:19:17 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[17-Feb-2020 07:27:07 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[19-Feb-2020 21:03:14 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[19-Feb-2020 21:34:12 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[19-Feb-2020 22:14:12 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[20-Feb-2020 09:40:22 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[21-Feb-2020 20:38:32 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[22-Feb-2020 05:03:41 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[22-Feb-2020 21:20:10 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[23-Feb-2020 16:59:55 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[24-Feb-2020 05:16:21 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[24-Feb-2020 08:16:51 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[24-Feb-2020 16:20:26 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[25-Feb-2020 06:32:59 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[25-Feb-2020 07:18:06 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[26-Feb-2020 11:20:40 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[27-Feb-2020 12:46:41 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[27-Feb-2020 12:52:46 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[27-Feb-2020 13:00:46 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[29-Feb-2020 13:18:02 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[29-Feb-2020 18:11:03 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[29-Feb-2020 20:53:54 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[02-Mar-2020 01:38:46 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[02-Mar-2020 18:41:39 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[03-Mar-2020 16:51:59 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[05-Mar-2020 07:59:22 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[06-Mar-2020 10:34:33 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[09-Mar-2020 11:37:02 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[10-Mar-2020 08:08:52 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[11-Mar-2020 16:55:16 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[12-Mar-2020 06:46:16 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[12-Mar-2020 18:32:55 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[13-Mar-2020 14:48:13 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[13-Mar-2020 21:17:58 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[14-Mar-2020 19:12:53 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[15-Mar-2020 00:37:06 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[15-Mar-2020 03:41:22 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[15-Mar-2020 19:49:23 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[18-Mar-2020 06:09:26 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[19-Mar-2020 15:01:44 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[22-Mar-2020 11:54:06 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[26-Mar-2020 12:06:47 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[27-Mar-2020 00:30:58 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[29-Mar-2020 16:39:42 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[01-Apr-2020 07:33:43 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[05-Apr-2020 09:29:46 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[07-Apr-2020 10:54:29 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[07-Apr-2020 12:08:30 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[07-Apr-2020 18:31:48 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[07-Apr-2020 21:51:08 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[08-Apr-2020 02:20:17 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[09-Apr-2020 11:37:30 Asia/Kolkata] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[12-Apr-2020 12:15:08 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[12-Apr-2020 12:15:08 Asia/Kolkata] PHP Stack trace:
+[12-Apr-2020 12:15:08 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[12-Apr-2020 12:15:08 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[12-Apr-2020 12:15:08 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[12-Apr-2020 12:16:40 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[12-Apr-2020 12:16:40 Asia/Kolkata] PHP Stack trace:
+[12-Apr-2020 12:16:40 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[12-Apr-2020 12:16:40 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[12-Apr-2020 12:16:40 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[12-Apr-2020 12:16:40 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/jmientra/public_html/Registration/server.php on line 67
+[12-Apr-2020 12:16:40 Asia/Kolkata] PHP Stack trace:
+[12-Apr-2020 12:16:40 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[12-Apr-2020 12:16:40 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[12-Apr-2020 12:16:40 Asia/Kolkata] PHP   3. mysqli_real_escape_string() /home/jmientra/public_html/Registration/server.php:67
+[12-Apr-2020 12:16:40 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/jmientra/public_html/Registration/server.php on line 68
+[12-Apr-2020 12:16:40 Asia/Kolkata] PHP Stack trace:
+[12-Apr-2020 12:16:40 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[12-Apr-2020 12:16:40 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[12-Apr-2020 12:16:40 Asia/Kolkata] PHP   3. mysqli_real_escape_string() /home/jmientra/public_html/Registration/server.php:68
+[12-Apr-2020 12:17:28 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[12-Apr-2020 12:17:28 Asia/Kolkata] PHP Stack trace:
+[12-Apr-2020 12:17:28 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[12-Apr-2020 12:17:28 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[12-Apr-2020 12:17:28 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[12-Apr-2020 12:17:28 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/jmientra/public_html/Registration/server.php on line 67
+[12-Apr-2020 12:17:28 Asia/Kolkata] PHP Stack trace:
+[12-Apr-2020 12:17:28 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[12-Apr-2020 12:17:28 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[12-Apr-2020 12:17:28 Asia/Kolkata] PHP   3. mysqli_real_escape_string() /home/jmientra/public_html/Registration/server.php:67
+[12-Apr-2020 12:17:28 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/jmientra/public_html/Registration/server.php on line 68
+[12-Apr-2020 12:17:28 Asia/Kolkata] PHP Stack trace:
+[12-Apr-2020 12:17:28 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[12-Apr-2020 12:17:28 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[12-Apr-2020 12:17:28 Asia/Kolkata] PHP   3. mysqli_real_escape_string() /home/jmientra/public_html/Registration/server.php:68
+[12-Apr-2020 12:17:49 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[12-Apr-2020 12:17:49 Asia/Kolkata] PHP Stack trace:
+[12-Apr-2020 12:17:49 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[12-Apr-2020 12:17:49 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[12-Apr-2020 12:17:49 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[12-Apr-2020 12:17:49 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/jmientra/public_html/Registration/server.php on line 67
+[12-Apr-2020 12:17:49 Asia/Kolkata] PHP Stack trace:
+[12-Apr-2020 12:17:49 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[12-Apr-2020 12:17:49 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[12-Apr-2020 12:17:49 Asia/Kolkata] PHP   3. mysqli_real_escape_string() /home/jmientra/public_html/Registration/server.php:67
+[12-Apr-2020 12:17:49 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/jmientra/public_html/Registration/server.php on line 68
+[12-Apr-2020 12:17:49 Asia/Kolkata] PHP Stack trace:
+[12-Apr-2020 12:17:49 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[12-Apr-2020 12:17:49 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[12-Apr-2020 12:17:49 Asia/Kolkata] PHP   3. mysqli_real_escape_string() /home/jmientra/public_html/Registration/server.php:68
+[12-Apr-2020 12:47:15 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[12-Apr-2020 12:47:15 Asia/Kolkata] PHP Stack trace:
+[12-Apr-2020 12:47:15 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[12-Apr-2020 12:47:15 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[12-Apr-2020 12:47:15 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[12-Apr-2020 12:47:28 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[12-Apr-2020 12:47:28 Asia/Kolkata] PHP Stack trace:
+[12-Apr-2020 12:47:28 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[12-Apr-2020 12:47:28 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[12-Apr-2020 12:47:28 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[12-Apr-2020 12:47:28 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/jmientra/public_html/Registration/server.php on line 67
+[12-Apr-2020 12:47:28 Asia/Kolkata] PHP Stack trace:
+[12-Apr-2020 12:47:28 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[12-Apr-2020 12:47:28 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[12-Apr-2020 12:47:28 Asia/Kolkata] PHP   3. mysqli_real_escape_string() /home/jmientra/public_html/Registration/server.php:67
+[12-Apr-2020 12:47:28 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/jmientra/public_html/Registration/server.php on line 68
+[12-Apr-2020 12:47:28 Asia/Kolkata] PHP Stack trace:
+[12-Apr-2020 12:47:28 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[12-Apr-2020 12:47:28 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[12-Apr-2020 12:47:28 Asia/Kolkata] PHP   3. mysqli_real_escape_string() /home/jmientra/public_html/Registration/server.php:68
+[12-Apr-2020 12:47:37 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[12-Apr-2020 12:47:37 Asia/Kolkata] PHP Stack trace:
+[12-Apr-2020 12:47:37 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[12-Apr-2020 12:47:37 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[12-Apr-2020 12:47:37 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[12-Apr-2020 12:47:37 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/jmientra/public_html/Registration/server.php on line 67
+[12-Apr-2020 12:47:37 Asia/Kolkata] PHP Stack trace:
+[12-Apr-2020 12:47:37 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[12-Apr-2020 12:47:37 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[12-Apr-2020 12:47:37 Asia/Kolkata] PHP   3. mysqli_real_escape_string() /home/jmientra/public_html/Registration/server.php:67
+[12-Apr-2020 12:47:37 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/jmientra/public_html/Registration/server.php on line 68
+[12-Apr-2020 12:47:37 Asia/Kolkata] PHP Stack trace:
+[12-Apr-2020 12:47:37 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[12-Apr-2020 12:47:37 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[12-Apr-2020 12:47:37 Asia/Kolkata] PHP   3. mysqli_real_escape_string() /home/jmientra/public_html/Registration/server.php:68
+[12-Apr-2020 12:47:46 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[12-Apr-2020 12:47:46 Asia/Kolkata] PHP Stack trace:
+[12-Apr-2020 12:47:46 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[12-Apr-2020 12:47:46 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[12-Apr-2020 12:47:46 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[12-Apr-2020 12:47:46 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/jmientra/public_html/Registration/server.php on line 67
+[12-Apr-2020 12:47:46 Asia/Kolkata] PHP Stack trace:
+[12-Apr-2020 12:47:46 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[12-Apr-2020 12:47:46 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[12-Apr-2020 12:47:46 Asia/Kolkata] PHP   3. mysqli_real_escape_string() /home/jmientra/public_html/Registration/server.php:67
+[12-Apr-2020 12:47:46 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/jmientra/public_html/Registration/server.php on line 68
+[12-Apr-2020 12:47:46 Asia/Kolkata] PHP Stack trace:
+[12-Apr-2020 12:47:46 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[12-Apr-2020 12:47:46 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[12-Apr-2020 12:47:46 Asia/Kolkata] PHP   3. mysqli_real_escape_string() /home/jmientra/public_html/Registration/server.php:68
+[12-Apr-2020 12:48:02 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[12-Apr-2020 12:48:02 Asia/Kolkata] PHP Stack trace:
+[12-Apr-2020 12:48:02 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[12-Apr-2020 12:48:02 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[12-Apr-2020 12:48:02 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[12-Apr-2020 12:48:02 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/jmientra/public_html/Registration/server.php on line 67
+[12-Apr-2020 12:48:02 Asia/Kolkata] PHP Stack trace:
+[12-Apr-2020 12:48:02 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[12-Apr-2020 12:48:02 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[12-Apr-2020 12:48:02 Asia/Kolkata] PHP   3. mysqli_real_escape_string() /home/jmientra/public_html/Registration/server.php:67
+[12-Apr-2020 12:48:02 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/jmientra/public_html/Registration/server.php on line 68
+[12-Apr-2020 12:48:02 Asia/Kolkata] PHP Stack trace:
+[12-Apr-2020 12:48:02 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[12-Apr-2020 12:48:02 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[12-Apr-2020 12:48:02 Asia/Kolkata] PHP   3. mysqli_real_escape_string() /home/jmientra/public_html/Registration/server.php:68
+[12-Apr-2020 12:48:12 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[12-Apr-2020 12:48:12 Asia/Kolkata] PHP Stack trace:
+[12-Apr-2020 12:48:12 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[12-Apr-2020 12:48:12 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[12-Apr-2020 12:48:12 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[12-Apr-2020 12:48:12 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/jmientra/public_html/Registration/server.php on line 67
+[12-Apr-2020 12:48:12 Asia/Kolkata] PHP Stack trace:
+[12-Apr-2020 12:48:12 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[12-Apr-2020 12:48:12 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[12-Apr-2020 12:48:12 Asia/Kolkata] PHP   3. mysqli_real_escape_string() /home/jmientra/public_html/Registration/server.php:67
+[12-Apr-2020 12:48:12 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, bool given in /home/jmientra/public_html/Registration/server.php on line 68
+[12-Apr-2020 12:48:12 Asia/Kolkata] PHP Stack trace:
+[12-Apr-2020 12:48:12 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[12-Apr-2020 12:48:12 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[12-Apr-2020 12:48:12 Asia/Kolkata] PHP   3. mysqli_real_escape_string() /home/jmientra/public_html/Registration/server.php:68
+[12-Apr-2020 12:48:20 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[12-Apr-2020 12:48:20 Asia/Kolkata] PHP Stack trace:
+[12-Apr-2020 12:48:20 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[12-Apr-2020 12:48:20 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[12-Apr-2020 12:48:20 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[16-Apr-2020 07:46:44 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[16-Apr-2020 07:46:44 Asia/Kolkata] PHP Stack trace:
+[16-Apr-2020 07:46:44 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[16-Apr-2020 07:46:44 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[16-Apr-2020 07:46:44 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[17-Apr-2020 13:28:35 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[17-Apr-2020 13:28:35 Asia/Kolkata] PHP Stack trace:
+[17-Apr-2020 13:28:35 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[17-Apr-2020 13:28:35 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[17-Apr-2020 13:28:35 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[19-Apr-2020 05:33:41 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[19-Apr-2020 05:33:41 Asia/Kolkata] PHP Stack trace:
+[19-Apr-2020 05:33:41 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[19-Apr-2020 05:33:41 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[19-Apr-2020 05:33:41 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[23-Apr-2020 05:24:20 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[23-Apr-2020 05:24:20 Asia/Kolkata] PHP Stack trace:
+[23-Apr-2020 05:24:20 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[23-Apr-2020 05:24:20 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[23-Apr-2020 05:24:20 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[27-Apr-2020 07:51:49 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[27-Apr-2020 07:51:49 Asia/Kolkata] PHP Stack trace:
+[27-Apr-2020 07:51:49 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[27-Apr-2020 07:51:49 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[27-Apr-2020 07:51:49 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[07-May-2020 21:39:26 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[07-May-2020 21:39:26 Asia/Kolkata] PHP Stack trace:
+[07-May-2020 21:39:26 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[07-May-2020 21:39:26 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[07-May-2020 21:39:26 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[09-May-2020 11:37:17 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[09-May-2020 11:37:17 Asia/Kolkata] PHP Stack trace:
+[09-May-2020 11:37:17 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[09-May-2020 11:37:17 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[09-May-2020 11:37:17 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[17-May-2020 08:08:16 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[17-May-2020 08:08:16 Asia/Kolkata] PHP Stack trace:
+[17-May-2020 08:08:16 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[17-May-2020 08:08:16 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[17-May-2020 08:08:16 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[17-May-2020 08:19:59 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[17-May-2020 08:19:59 Asia/Kolkata] PHP Stack trace:
+[17-May-2020 08:19:59 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[17-May-2020 08:19:59 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[17-May-2020 08:19:59 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[19-May-2020 01:56:48 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[19-May-2020 01:56:48 Asia/Kolkata] PHP Stack trace:
+[19-May-2020 01:56:48 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[19-May-2020 01:56:48 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[19-May-2020 01:56:48 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[22-May-2020 23:46:50 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[22-May-2020 23:46:50 Asia/Kolkata] PHP Stack trace:
+[22-May-2020 23:46:50 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[22-May-2020 23:46:50 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[22-May-2020 23:46:50 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[23-May-2020 16:13:58 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[23-May-2020 16:13:58 Asia/Kolkata] PHP Stack trace:
+[23-May-2020 16:13:58 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[23-May-2020 16:13:58 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[23-May-2020 16:13:58 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[29-May-2020 14:01:47 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[29-May-2020 14:01:47 Asia/Kolkata] PHP Stack trace:
+[29-May-2020 14:01:47 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[29-May-2020 14:01:47 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[29-May-2020 14:01:47 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[31-May-2020 09:19:51 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[31-May-2020 09:19:51 Asia/Kolkata] PHP Stack trace:
+[31-May-2020 09:19:51 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[31-May-2020 09:19:51 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[31-May-2020 09:19:51 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[15-Jun-2020 17:08:13 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[15-Jun-2020 17:08:13 Asia/Kolkata] PHP Stack trace:
+[15-Jun-2020 17:08:13 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[15-Jun-2020 17:08:13 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[15-Jun-2020 17:08:13 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[18-Jun-2020 00:25:30 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[18-Jun-2020 00:25:30 Asia/Kolkata] PHP Stack trace:
+[18-Jun-2020 00:25:30 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[18-Jun-2020 00:25:30 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[18-Jun-2020 00:25:30 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[18-Jun-2020 00:25:31 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[18-Jun-2020 00:25:31 Asia/Kolkata] PHP Stack trace:
+[18-Jun-2020 00:25:31 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[18-Jun-2020 00:25:31 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[18-Jun-2020 00:25:31 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[20-Jun-2020 11:56:51 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[20-Jun-2020 11:56:51 Asia/Kolkata] PHP Stack trace:
+[20-Jun-2020 11:56:51 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[20-Jun-2020 11:56:51 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[20-Jun-2020 11:56:51 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[24-Jun-2020 12:33:14 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[24-Jun-2020 12:33:14 Asia/Kolkata] PHP Stack trace:
+[24-Jun-2020 12:33:14 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[24-Jun-2020 12:33:14 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[24-Jun-2020 12:33:14 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[27-Jun-2020 08:39:48 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[27-Jun-2020 08:39:48 Asia/Kolkata] PHP Stack trace:
+[27-Jun-2020 08:39:48 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[27-Jun-2020 08:39:48 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[27-Jun-2020 08:39:48 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[02-Jul-2020 15:43:01 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[02-Jul-2020 15:43:01 Asia/Kolkata] PHP Stack trace:
+[02-Jul-2020 15:43:01 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[02-Jul-2020 15:43:01 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[02-Jul-2020 15:43:01 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[05-Jul-2020 08:41:29 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[05-Jul-2020 08:41:29 Asia/Kolkata] PHP Stack trace:
+[05-Jul-2020 08:41:29 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[05-Jul-2020 08:41:29 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[05-Jul-2020 08:41:29 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[06-Jul-2020 03:25:01 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[06-Jul-2020 03:25:01 Asia/Kolkata] PHP Stack trace:
+[06-Jul-2020 03:25:01 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[06-Jul-2020 03:25:01 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[06-Jul-2020 03:25:01 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[07-Jul-2020 23:08:57 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[07-Jul-2020 23:08:57 Asia/Kolkata] PHP Stack trace:
+[07-Jul-2020 23:08:57 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[07-Jul-2020 23:08:57 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[07-Jul-2020 23:08:57 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[07-Jul-2020 23:08:57 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[07-Jul-2020 23:08:57 Asia/Kolkata] PHP Stack trace:
+[07-Jul-2020 23:08:57 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[07-Jul-2020 23:08:57 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[07-Jul-2020 23:08:57 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[08-Jul-2020 20:11:55 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[08-Jul-2020 20:11:55 Asia/Kolkata] PHP Stack trace:
+[08-Jul-2020 20:11:55 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[08-Jul-2020 20:11:55 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[08-Jul-2020 20:11:55 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[12-Jul-2020 01:52:07 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[12-Jul-2020 01:52:07 Asia/Kolkata] PHP Stack trace:
+[12-Jul-2020 01:52:07 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[12-Jul-2020 01:52:07 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[12-Jul-2020 01:52:07 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[13-Jul-2020 06:01:00 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[13-Jul-2020 06:01:00 Asia/Kolkata] PHP Stack trace:
+[13-Jul-2020 06:01:00 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[13-Jul-2020 06:01:00 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[13-Jul-2020 06:01:00 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[15-Jul-2020 23:04:52 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[15-Jul-2020 23:04:52 Asia/Kolkata] PHP Stack trace:
+[15-Jul-2020 23:04:52 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[15-Jul-2020 23:04:52 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[15-Jul-2020 23:04:52 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[15-Jul-2020 23:38:35 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[15-Jul-2020 23:38:35 Asia/Kolkata] PHP Stack trace:
+[15-Jul-2020 23:38:35 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[15-Jul-2020 23:38:35 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[15-Jul-2020 23:38:35 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[17-Jul-2020 13:10:35 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[17-Jul-2020 13:10:35 Asia/Kolkata] PHP Stack trace:
+[17-Jul-2020 13:10:35 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[17-Jul-2020 13:10:35 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[17-Jul-2020 13:10:35 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[20-Jul-2020 15:39:25 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[20-Jul-2020 15:39:25 Asia/Kolkata] PHP Stack trace:
+[20-Jul-2020 15:39:25 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[20-Jul-2020 15:39:25 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[20-Jul-2020 15:39:25 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[22-Jul-2020 01:29:41 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[22-Jul-2020 01:29:41 Asia/Kolkata] PHP Stack trace:
+[22-Jul-2020 01:29:41 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[22-Jul-2020 01:29:41 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[22-Jul-2020 01:29:41 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[23-Jul-2020 21:39:49 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[23-Jul-2020 21:39:49 Asia/Kolkata] PHP Stack trace:
+[23-Jul-2020 21:39:49 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[23-Jul-2020 21:39:49 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[23-Jul-2020 21:39:49 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[24-Jul-2020 19:38:03 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[24-Jul-2020 19:38:03 Asia/Kolkata] PHP Stack trace:
+[24-Jul-2020 19:38:03 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[24-Jul-2020 19:38:03 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[24-Jul-2020 19:38:03 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[26-Jul-2020 09:14:12 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[26-Jul-2020 09:14:12 Asia/Kolkata] PHP Stack trace:
+[26-Jul-2020 09:14:12 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[26-Jul-2020 09:14:12 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[26-Jul-2020 09:14:12 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[26-Jul-2020 10:33:09 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[26-Jul-2020 10:33:09 Asia/Kolkata] PHP Stack trace:
+[26-Jul-2020 10:33:09 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[26-Jul-2020 10:33:09 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[26-Jul-2020 10:33:09 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[28-Jul-2020 21:44:42 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[28-Jul-2020 21:44:42 Asia/Kolkata] PHP Stack trace:
+[28-Jul-2020 21:44:42 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[28-Jul-2020 21:44:42 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[28-Jul-2020 21:44:42 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[30-Jul-2020 13:18:19 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[30-Jul-2020 13:18:19 Asia/Kolkata] PHP Stack trace:
+[30-Jul-2020 13:18:19 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[30-Jul-2020 13:18:19 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[30-Jul-2020 13:18:19 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[01-Aug-2020 12:41:54 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[01-Aug-2020 12:41:54 Asia/Kolkata] PHP Stack trace:
+[01-Aug-2020 12:41:54 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[01-Aug-2020 12:41:54 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[01-Aug-2020 12:41:54 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[02-Aug-2020 08:01:11 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[02-Aug-2020 08:01:11 Asia/Kolkata] PHP Stack trace:
+[02-Aug-2020 08:01:11 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[02-Aug-2020 08:01:11 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[02-Aug-2020 08:01:11 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[02-Aug-2020 19:14:44 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[02-Aug-2020 19:14:44 Asia/Kolkata] PHP Stack trace:
+[02-Aug-2020 19:14:44 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[02-Aug-2020 19:14:44 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[02-Aug-2020 19:14:44 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[02-Aug-2020 19:28:00 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[02-Aug-2020 19:28:00 Asia/Kolkata] PHP Stack trace:
+[02-Aug-2020 19:28:00 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[02-Aug-2020 19:28:00 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[02-Aug-2020 19:28:00 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[04-Aug-2020 23:09:12 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[04-Aug-2020 23:09:12 Asia/Kolkata] PHP Stack trace:
+[04-Aug-2020 23:09:12 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[04-Aug-2020 23:09:12 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[04-Aug-2020 23:09:12 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[05-Aug-2020 05:37:15 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[05-Aug-2020 05:37:15 Asia/Kolkata] PHP Stack trace:
+[05-Aug-2020 05:37:15 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[05-Aug-2020 05:37:15 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[05-Aug-2020 05:37:15 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[07-Aug-2020 23:20:40 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[07-Aug-2020 23:20:40 Asia/Kolkata] PHP Stack trace:
+[07-Aug-2020 23:20:40 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[07-Aug-2020 23:20:40 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[07-Aug-2020 23:20:40 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[08-Aug-2020 00:12:44 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[08-Aug-2020 00:12:44 Asia/Kolkata] PHP Stack trace:
+[08-Aug-2020 00:12:44 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[08-Aug-2020 00:12:44 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[08-Aug-2020 00:12:44 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[08-Aug-2020 12:15:03 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[08-Aug-2020 12:15:03 Asia/Kolkata] PHP Stack trace:
+[08-Aug-2020 12:15:03 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[08-Aug-2020 12:15:03 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[08-Aug-2020 12:15:03 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[12-Aug-2020 12:36:01 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[12-Aug-2020 12:36:01 Asia/Kolkata] PHP Stack trace:
+[12-Aug-2020 12:36:01 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[12-Aug-2020 12:36:01 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[12-Aug-2020 12:36:01 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[12-Aug-2020 16:16:57 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[12-Aug-2020 16:16:57 Asia/Kolkata] PHP Stack trace:
+[12-Aug-2020 16:16:57 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[12-Aug-2020 16:16:57 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[12-Aug-2020 16:16:57 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[13-Aug-2020 02:10:07 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[13-Aug-2020 02:10:07 Asia/Kolkata] PHP Stack trace:
+[13-Aug-2020 02:10:07 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[13-Aug-2020 02:10:07 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[13-Aug-2020 02:10:07 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[14-Aug-2020 19:47:53 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[14-Aug-2020 19:47:53 Asia/Kolkata] PHP Stack trace:
+[14-Aug-2020 19:47:53 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[14-Aug-2020 19:47:53 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[14-Aug-2020 19:47:53 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[15-Aug-2020 10:49:53 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[15-Aug-2020 10:49:53 Asia/Kolkata] PHP Stack trace:
+[15-Aug-2020 10:49:53 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[15-Aug-2020 10:49:53 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[15-Aug-2020 10:49:53 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[15-Aug-2020 14:15:40 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[15-Aug-2020 14:15:40 Asia/Kolkata] PHP Stack trace:
+[15-Aug-2020 14:15:40 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[15-Aug-2020 14:15:40 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[15-Aug-2020 14:15:40 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[17-Aug-2020 14:16:31 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[17-Aug-2020 14:16:31 Asia/Kolkata] PHP Stack trace:
+[17-Aug-2020 14:16:31 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[17-Aug-2020 14:16:31 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[17-Aug-2020 14:16:31 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[19-Aug-2020 09:14:18 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[19-Aug-2020 09:14:18 Asia/Kolkata] PHP Stack trace:
+[19-Aug-2020 09:14:18 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[19-Aug-2020 09:14:18 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[19-Aug-2020 09:14:18 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[20-Aug-2020 10:19:56 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[20-Aug-2020 10:19:56 Asia/Kolkata] PHP Stack trace:
+[20-Aug-2020 10:19:56 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[20-Aug-2020 10:19:56 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[20-Aug-2020 10:19:56 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[20-Aug-2020 10:52:48 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[20-Aug-2020 10:52:48 Asia/Kolkata] PHP Stack trace:
+[20-Aug-2020 10:52:48 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[20-Aug-2020 10:52:48 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[20-Aug-2020 10:52:48 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[26-Aug-2020 03:53:15 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[26-Aug-2020 03:53:15 Asia/Kolkata] PHP Stack trace:
+[26-Aug-2020 03:53:15 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[26-Aug-2020 03:53:15 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[26-Aug-2020 03:53:15 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[26-Aug-2020 19:08:06 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[26-Aug-2020 19:08:06 Asia/Kolkata] PHP Stack trace:
+[26-Aug-2020 19:08:06 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[26-Aug-2020 19:08:06 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[26-Aug-2020 19:08:06 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[30-Aug-2020 09:30:52 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[30-Aug-2020 09:30:52 Asia/Kolkata] PHP Stack trace:
+[30-Aug-2020 09:30:52 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[30-Aug-2020 09:30:52 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[30-Aug-2020 09:30:52 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[31-Aug-2020 12:02:03 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[31-Aug-2020 12:02:03 Asia/Kolkata] PHP Stack trace:
+[31-Aug-2020 12:02:03 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[31-Aug-2020 12:02:03 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[31-Aug-2020 12:02:03 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[01-Sep-2020 11:20:20 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[01-Sep-2020 11:20:20 Asia/Kolkata] PHP Stack trace:
+[01-Sep-2020 11:20:20 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[01-Sep-2020 11:20:20 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[01-Sep-2020 11:20:20 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[02-Sep-2020 20:22:37 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[02-Sep-2020 20:22:37 Asia/Kolkata] PHP Stack trace:
+[02-Sep-2020 20:22:37 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[02-Sep-2020 20:22:37 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[02-Sep-2020 20:22:37 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[04-Sep-2020 13:19:45 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[04-Sep-2020 13:19:45 Asia/Kolkata] PHP Stack trace:
+[04-Sep-2020 13:19:45 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[04-Sep-2020 13:19:45 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[04-Sep-2020 13:19:45 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12
+[05-Sep-2020 18:37:59 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'id3017094_root'@'localhost' (using password: YES) in /home/jmientra/public_html/Registration/server.php on line 12
+[05-Sep-2020 18:37:59 Asia/Kolkata] PHP Stack trace:
+[05-Sep-2020 18:37:59 Asia/Kolkata] PHP   1. {main}() /home/jmientra/public_html/Registration/login.php:0
+[05-Sep-2020 18:37:59 Asia/Kolkata] PHP   2. include() /home/jmientra/public_html/Registration/login.php:1
+[05-Sep-2020 18:37:59 Asia/Kolkata] PHP   3. mysqli_connect() /home/jmientra/public_html/Registration/server.php:12

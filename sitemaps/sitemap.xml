@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://www.diplomacs.com/</loc>
+  <lastmod>2018-06-01T16:50:27+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.diplomacs.com/index.html</loc>
+  <lastmod>2018-06-01T16:50:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.diplomacs.com/About.html</loc>
+  <lastmod>2018-06-01T16:50:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.diplomacs.com/Syllabus.html</loc>
+  <lastmod>2018-06-01T16:50:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.diplomacs.com/Faculty.html</loc>
+  <lastmod>2018-06-01T16:50:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.diplomacs.com/Notes.html</loc>
+  <lastmod>2018-06-01T16:50:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.diplomacs.com/Sample_Paper.html</loc>
+  <lastmod>2018-06-01T16:50:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.diplomacs.com/Comment.html</loc>
+  <lastmod>2018-06-01T16:50:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.diplomacs.com/entrance.html</loc>
+  <lastmod>2018-06-01T16:50:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.diplomacs.com/contributors.html</loc>
+  <lastmod>2018-06-01T16:50:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.diplomacs.com/Registration/login.php</loc>
+  <lastmod>2018-06-01T16:50:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.diplomacs.com/admin.html</loc>
+  <lastmod>2018-06-01T16:50:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.diplomacs.com/pdf/fet_up_diploma_in_computer_engineering_daycourses_2012.pdf</loc>
+  <lastmod>2018-04-27T17:39:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

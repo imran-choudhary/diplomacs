@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://www.diplomacs.com/</title>
+  <link>http://www.diplomacs.com/</link>
+
+<item>
+     <link>http://www.diplomacs.com/</link>
+     <title>Diplomacs.com</title>
+     <description>Diplomacs.com</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.diplomacs.com/index.html</link>
+     <title>Diplomacs.com</title>
+     <description>Diplomacs.com</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.diplomacs.com/About.html</link>
+     <title>Diplomacs | About</title>
+     <description>Diplomacs | About</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.diplomacs.com/Syllabus.html</link>
+     <title>Diplomacs | Syllabus</title>
+     <description>Diplomacs | Syllabus</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.diplomacs.com/Faculty.html</link>
+     <title>Diplomacs | Faculty Members</title>
+     <description>Diplomacs | Faculty Members</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.diplomacs.com/Notes.html</link>
+     <title>Diplomacs | Notes</title>
+     <description>Diplomacs | Notes</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.diplomacs.com/Sample_Paper.html</link>
+     <title>Diplomacs | Sample Papers</title>
+     <description>Diplomacs | Sample Papers</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.diplomacs.com/Comment.html</link>
+     <title>Diplomacs | Comments</title>
+     <description>Diplomacs | Comments</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.diplomacs.com/entrance.html</link>
+     <title>Diplomacs | Entrance Exam Papers</title>
+     <description>Diplomacs | Entrance Exam Papers</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.diplomacs.com/contributors.html</link>
+     <title>Diplomacs | Contributors</title>
+     <description>Diplomacs | Contributors</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.diplomacs.com/Registration/login.php</link>
+     <title>Login</title>
+     <description>Login</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.diplomacs.com/admin.html</link>
+     <title>Diplomacs | Admin</title>
+     <description>Diplomacs | Admin</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.diplomacs.com/pdf/fet_up_diploma_in_computer_engineering_daycourses_2012.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
